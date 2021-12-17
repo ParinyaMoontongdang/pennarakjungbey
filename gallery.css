@@ -14,7 +14,6 @@ html, body {
   padding: 24px;
   display: inline-block;
   text-decoration: none;
-  transform: translate(580px, 0px);
 }
 
 .brand{
@@ -23,7 +22,7 @@ html, body {
 }
 
 .main-content{
-  max-width: 950px;
+  max-width: 800px;
   margin: auto;
 }
 
@@ -46,13 +45,13 @@ html, body {
 .gallery-wrapper {
   background-color: #dbdbdb;
   box-sizing: border-box;
-  height: 300px;
+  height: 315px;
   overflow: hidden;
 }
 
 .gallery-scroll {
   box-sizing: border-box;
-  height: 300px;
+  height: 315px;
   overflow-x: auto;
   overflow-y: hidden;
 }
@@ -62,7 +61,7 @@ html, body {
   display: flex;
   box-sizing: border-box;
   width: max-content;
-  height: 285px;
+  height: 300px;
   padding: 0px 15px;
 }
 
