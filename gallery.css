@@ -22,14 +22,14 @@ html, body {
 }
 
 .main-content{
-  max-width: 800px;
+  max-width: 840px;
   margin: auto;
 }
 
 .box{
   background-color: white;
-  padding: 20px;
-  margin: 30px;
+  padding: 30px;
+  margin: 40px;
 }
 
 .name{
